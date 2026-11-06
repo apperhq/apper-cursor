@@ -27,7 +27,7 @@ locally — Cursor connects to it over HTTPS.
   "mcpServers": {
     "apper": {
       "type": "http",
-      "url": "https://mcp.apper.io/v1/connect"
+      "url": "https://mcp.apper.io/v1.1/connect"
     }
   }
 }
